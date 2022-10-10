@@ -13,5 +13,6 @@ variable "repo_name_list" {
     "tweet-dashboard",
     "maze-generation",
     "react-learning",
+    "terraform-learning",
   ]
 }
