@@ -1,0 +1,7 @@
+# terraform modules
+.terraform
+.terraform.lock.hcl
+# terraform state files
+*.tfstate*
+# terraform sensitive vars
+terraform.tfvars
