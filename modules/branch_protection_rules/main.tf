@@ -10,7 +10,7 @@ resource "github_branch_protection" "default_rules" {
 
   repository_id = github_repository.repository.node_id
 
-  pattern                 = "master"
+  pattern                 = "master,main"
   enforce_admins          = true
   allows_deletions        = false
   require_signed_commits  = false
