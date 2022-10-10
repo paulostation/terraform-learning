@@ -1,0 +1,6 @@
+managed_repo_list:
+  - "tweet-analysis"
+  - "tweet-dashboard"
+  - "maze-generation"
+  - "react-learning"
+  - "terraform-learning"
